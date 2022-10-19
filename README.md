@@ -1,0 +1,4 @@
+- 👋 Hello! I’m @vexonr
+- 👀 I’m interested in UI/UX design, web design, and database design!
+- 🌱 Currently learning HTML, CSS, Java, PHP, MySQL, etc.
+- 📫 Let's get connected! Visit vexonr.github.io 
